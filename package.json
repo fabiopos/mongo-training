@@ -1,0 +1,29 @@
+{
+  "name": "mongotraining_backend",
+  "version": "1.0.0",
+  "description": "trainign mongo",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongodb": "^3.1.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiopos/mongo-training.git"
+  },
+  "keywords": [
+    "mongo-training",
+    "express"
+  ],
+  "author": "Fabio Posada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fabiopos/mongo-training/issues"
+  },
+  "homepage": "https://github.com/fabiopos/mongo-training#readme"
+}
